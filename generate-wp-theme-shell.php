@@ -2,8 +2,6 @@
 
 $path  = $argv[1];
 
-var_dump($path);
-
 // dirs
 $dirs = array(
   "inc/",
@@ -58,6 +56,5 @@ foreach ($files as $file):
   fclose($f);
 endforeach;
 
-// todo: append text to the files
-// get_header() and get_footer()
-// and the style.css stuff
+echo "Created wordpress theme shell at: " . $path . "\n";
+echo "Happy coding!" . "\n";
