@@ -21,6 +21,7 @@ $files  = array(
   "functions.php",
   "front-page.php",
   "page.php",
+  "sidebar.php",
   "style.css"
 );
 
@@ -46,6 +47,9 @@ foreach ($files as $file):
       break;
 
     case 'header.php':
+      break;
+
+    case 'sidebar.php':
       break;
     
     default:
