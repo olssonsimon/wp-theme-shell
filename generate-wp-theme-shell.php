@@ -11,7 +11,8 @@ $dirs = array(
   "css/",
   "img/",
   "js/",
-  "page-templates/"
+  "page-templates/",
+  "languages/"
 );
 
 // files
