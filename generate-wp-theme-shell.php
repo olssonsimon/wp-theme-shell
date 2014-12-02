@@ -23,6 +23,9 @@ $files  = array(
   "page.php",
   "sidebar.php",
   "archive.php",
+  "single.php",
+  "search.php",
+  "comments.php",
   "style.css"
 );
 
@@ -51,6 +54,12 @@ foreach ($files as $file):
       break;
 
     case 'sidebar.php':
+      break;
+
+    case 'search.php':
+      break;
+
+    case 'comments.php':
       break;
     
     default:
