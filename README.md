@@ -53,6 +53,9 @@ front-page.php
 page.php
 sidebar.php
 archive.php
+single.php
+search.php
+comments.php
 style.css
 ```
 For more information about what goes in these files go to:
