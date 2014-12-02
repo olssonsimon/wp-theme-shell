@@ -22,6 +22,7 @@ $files  = array(
   "front-page.php",
   "page.php",
   "sidebar.php",
+  "archive.php",
   "style.css"
 );
 
