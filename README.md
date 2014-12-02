@@ -23,10 +23,10 @@ php generate-wp-theme-shell /Users/you/developer/wordpress/wp-content/themes/you
 ```
 
 #####/inc
-Place files you wish to include in your other files here.
+Place files you wish to include in your other files here
 
 #####/lib
-Place external libraries here
+Place external libraries, custom post types and such things here
 
 #####/css
 Place css files here
