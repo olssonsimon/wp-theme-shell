@@ -56,9 +56,6 @@ foreach ($files as $file):
     case 'sidebar.php':
       break;
 
-    case 'search.php':
-      break;
-
     case 'comments.php':
       break;
     
